@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header_text {
+  text-shadow: 2px 2px 15px rgb(176, 230, 255);
+  font-size: 32px;
+}
